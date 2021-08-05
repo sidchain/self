@@ -4,7 +4,7 @@
       "settingsVersion": "2-11-0",
       "propertyName": "Devanka 761",
       "branding": {
-        "whitelabeled": false,
+        "whitelabeled": true,
         "text": "Hello",
         "url": "http://www.facebook.com"
       },
